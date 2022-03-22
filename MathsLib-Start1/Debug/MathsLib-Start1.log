@@ -1,0 +1,8 @@
+﻿  cVector.cpp
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(15,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(16,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(17,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(28,10): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(29,10): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besnow\source\repos\MathsLib-Start1\MathsLib-Start1\cVector.cpp(30,10): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+  MathsLib-Start1.vcxproj -> C:\Users\Besnow\source\repos\MathsLib-Start1\Debug\MathsLib-Start1.lib
